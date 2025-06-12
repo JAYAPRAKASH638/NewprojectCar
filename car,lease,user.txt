@@ -1,0 +1,6 @@
+car
+http://localhost:8080/api/cars
+lease
+http://localhost:8080/api/leases
+user 
+http://localhost:8080/api/users
